@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-OMIE (Iberian power market) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://omie.es/
+OMIE es el operador de mercado eléctrico designado (NEMO) para la gestión del mercado diario e intradiario de electricidad en la Península Ibérica. Gestiona la totalidad de los mercados de energía en España y Portugal, participando activamente en el acoplamiento de los mercados mayoristas de la UE. Su modelo operativo es el mismo que el aplicado por muchos otros mercados europeos, ofreciendo subastas y un mercado continuo. La empresa también forma parte del Grupo OMI, proporcionando datos y servicios relacionados con la energía.
+
+**Areas:** Company · Energy · Electricity · Market · Spain · Portugal
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://omie.es/)
+- [Documentation](https://www.omie.es/)
+- [Getting started](https://www.omie.es/es/sobre-nosotros)
+- [Support](https://www.portal-asistencia.omie.es/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/omie-es/](https://apis.io/providers/omie-es/).
